@@ -12,12 +12,12 @@ Please download Microsoft Excel file "supplementary_materials.xlsx" as supplemen
 
 
 ## Credit
-Please cite this work if you want to use the material.
-
 * The Authors
- * [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale)
- * [Megha Sharma](https://github.com/ms3744)
- * [I-Chieh Wei](https://profiles.auckland.ac.nz/iwei022)
+  * [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale)
+  * [Megha Sharma](https://github.com/ms3744)
+  * [I-Chieh Wei](https://profiles.auckland.ac.nz/iwei022)
+
+Please cite this work if you want to use the material.
 
 > @inproceedings{datasetethics-ismir2023, <br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;author    = {Fabio Morreale, Megha Sharma and I-Chieh Wei}, <br>
