@@ -8,7 +8,7 @@ Please download the Microsoft Excel file "supplementary_materials.xlsx" as suppl
 ## Excel spreadsheet content
 
  * Surveyed ISMIR paper names from 2012 to 2022
- * AMG Dataset names list
+ * AMG dataset names list
 
 
 You can reach out the authors if you have further question:
