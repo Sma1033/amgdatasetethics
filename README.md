@@ -12,7 +12,7 @@ Please download Microsoft Excel file "supplementary_materials.xlsx" as supplemen
 
 
 ## Credit
-Please cite this work if you want to use this material.
+Please cite this work if you want to use the material.
 
 > @inproceedings{datasetethics-ismir2023, <br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;author    = {Fabio Morreale, Megha Sharma and I-Chieh Wei}, <br>
