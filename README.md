@@ -10,12 +10,12 @@ Please download Microsoft Excel file "supplementary_materials.xlsx" as supplemen
  * Surveyed ISMIR paper names from 2012 to 2022
  * AMG Dataset names list
 
-
-## Credit
-The three authors of this work are:
-  * [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale)
+You can reach out the authors if you have further question:
+  * [Fabio Morreale (main)](https://profiles.auckland.ac.nz/f-morreale)
   * [Megha Sharma](https://github.com/ms3744)
   * [I-Chieh Wei](https://profiles.auckland.ac.nz/iwei022)
+
+## Credit
 
 Please cite this work if you want to use the material.
 
