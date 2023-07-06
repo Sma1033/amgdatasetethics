@@ -11,7 +11,7 @@ Please download Microsoft Excel file "supplementary_materials.xlsx" as supplemen
  * AMG Dataset names list
 
 You can reach out the authors if you have further question:
-  * [Fabio Morreale (main)](https://profiles.auckland.ac.nz/f-morreale)
+  * [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale) (main author)
   * [Megha Sharma](https://github.com/ms3744)
   * [I-Chieh Wei](https://profiles.auckland.ac.nz/iwei022)
 
