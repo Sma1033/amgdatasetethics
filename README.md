@@ -12,7 +12,7 @@ Please download Microsoft Excel file "supplementary_materials.xlsx" as supplemen
 
 
 ## Credit
-* The Authors
+The three authors of this work are:
   * [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale)
   * [Megha Sharma](https://github.com/ms3744)
   * [I-Chieh Wei](https://profiles.auckland.ac.nz/iwei022)
